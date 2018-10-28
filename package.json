@@ -1,0 +1,13 @@
+{
+  "name": "rxjs_30_dias",
+  "version": "1.0.0",
+  "description": "Siguiendo el curso de Jorge Cano sobre RxJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
